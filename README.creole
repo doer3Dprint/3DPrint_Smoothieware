@@ -1,3 +1,5 @@
+This is an repository forked from smoothieware for the usage of UW WOOF3D's new 3D printer Big Blue, modified by Baihan Lin (DoerLBH@gmail.com, Sunnylin@uw.edu) 
+
 Current build status: {{https://travis-ci.org/Smoothieware/Smoothieware.svg?branch=edge}}
 
 ==Overview
